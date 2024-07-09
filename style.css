@@ -42,3 +42,39 @@ body{
     font-weight: 400; 
     text-align: center;  
 }
+
+/*65% content style starts here*/
+.second-section{
+    width: 803px;
+    height: 651px;
+    border: 2px solid purple;
+    margin: 0 auto;
+    margin-top: 155px;
+}
+.second-section-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.second-section-content h1{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+}
+.second-section-content p{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+}
+.second-section-content h3{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+}
